@@ -1,0 +1,14 @@
+body{
+    background: #d8d2d2;
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: purple;
+    text-align: center;
+    font-size: 20px;
+}
